@@ -7,4 +7,5 @@ def hello_t(array)
 end
 
 # call your method here!
-
+my_arr = ["Tim", "Tom", "Jim"]
+hello_t
